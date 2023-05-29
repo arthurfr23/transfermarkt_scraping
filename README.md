@@ -1,5 +1,5 @@
 # Transfermarkt Scraping
-## _Programming for extracting data from Transfermarkt through web scraping and employing DeepFace for racial categorization_
+## _Transfermarkt data extraction with web scraping and DeepFace for racial categorization_
 
 This repository contains code for extracting information from Transfermarkt using web scraping techniques. Additionally, it includes functionality for performing racial classification using DeepFace. The data is saved to a xlsx file. 
 ### Features
